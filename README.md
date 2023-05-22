@@ -1,6 +1,6 @@
 <param ve-config 
-       title="Essay Title"
-       author="Author"
+       title="Tapioca"
+       author="Jody Lim"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
        
