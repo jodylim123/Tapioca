@@ -39,7 +39,7 @@ Even with the promotion of tapioca cultivation during the occupation, people wer
 
 Furthermore, a 4 August 1942 article in the Syonan Shimbun reveals how “Kang Siang Gee, a proprietor of a substantial wholesale business in Teluk Ayer Street, was fined $1,500 or nine months’ rigorous imprisonment” for profiteering on tapioca flour. [^18] He had sold a sack of tapioca flour priced at an inflated price of $22.85, about 66% higher than its usual price of $13.76. Kang also had 1204 catties of tapioca flour in his shop. The salesman, Kang Tai Lye, was also convicted and subjected to a fine of $750 or two months’ and two weeks’ rigorous imprisonment. [^19] This illustrates the thriving black market during the occupation and the harsh punishments that came with breaking the law. 
 <param ve-image 
-       url="media/syonan_shimbun.png"
+       url="Tapioca/media/syonan_shimbun.png"
        title="Dealer in Tapioca Flour fined $1,5000" 
        attribution="Syonan Shimbun"
        license="CC BY-NC, digitised by NUS Libraries">
