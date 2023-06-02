@@ -17,7 +17,6 @@ Tapioca was brought into the Straits Settlements and the Federated Malay States 
 <param ve-iframe 
        src="https://digitalgems.nus.edu.sg/persistent/18fac49d-e52d-4893-9b3e-5bf7dcd1dfbf#search=%20trafalgar"
        title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Held by Kew Gardens."
        attribution="G.R. Lambert & Co."
        license="CC BY-NC, digitised by NUS Libraries" >
 
@@ -39,6 +38,12 @@ Furthermore, the variety of food had reduced as Japanese authorities requisition
 Even with the promotion of tapioca cultivation during the occupation, people were compelled to profiteer off tapioca.  Although the boys in Sng’s plot were unpaid, they received a commission when the tapioca was sold. The boys would sell the tapioca at the markets to “red-cloth house builders”, which likely meant the <span eid: "Q7410435"> samsui women </span>. Inflation also caused the price of tapioca to be paid in gunny bags of money. 100 katis was one gunny bag, which contained a whopping $130,000 in banana money. Thus, tapioca suddenly experienced a resurgence of use, only this time it was out of necessity, rather than for the accumulation of wealth. With massive war time inflation, this former cash crop ironically regained its monetary value. 
 
 Furthermore, a 4 August 1942 article in the Syonan Shimbun reveals how “Kang Siang Gee, a proprietor of a substantial wholesale business in Teluk Ayer Street, was fined $1,500 or nine months’ rigorous imprisonment” for profiteering on tapioca flour. [^18] He had sold a sack of tapioca flour priced at an inflated price of $22.85, about 66% higher than its usual price of $13.76. Kang also had 1204 catties of tapioca flour in his shop. The salesman, Kang Tai Lye, was also convicted and subjected to a fine of $750 or two months’ and two weeks’ rigorous imprisonment. [^19] This illustrates the thriving black market during the occupation and the harsh punishments that came with breaking the law. 
+<param ve-image 
+       url="syonan_shimbun.png"
+       title="Dealer in Tapioca Flour fined $1,5000" 
+       attribution="Syonan Shimbun"
+       license="CC BY-NC, digitised by NUS Libraries">
+
 
 After the Occupation, tapioca was even more unpopular to the layperson. As historian Paul Kratoska puts it, “The Malayan population had not eaten well under Japanese rule, and people wanted to be liberated not only from Japan but also from tapioca.” [^20] Thus, the food shortages post-occupation could no longer be remedied by tapioca. A 1946 Malaya Tribune editorial advised, “Everywhere we see the ruins of gardens torn up with gay abandon during the delirious days immediately following the reoccupation. These gardens should be replanted at once with green vegetables and even the despised tapioca.” [^21] However, between December 1945 to April 1946, the area used for cultivating tapioca dropped from 133,000 acres to 99,000 acres. [^22] Once again, tapioca cultivation was on the downturn in Singapore. 
 
