@@ -12,6 +12,11 @@ In Singapore, one can scarcely walk into a shopping mall without seeing a bubble
        url="https://upload.wikimedia.org/wikipedia/commons/3/33/A_bubble_tea_with_tapioca_pearls%2C_July_2018.jpg"
        title="A Bubble Tea with Tapioca Pearls" 
        license="CC0 1.0">
+<param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1080187.jpg"
+       title="Tapioca, William Farquhar Collection of Natural History Drawings" 
+       attribution= "Collection of the National Museum of Singapore, National Heritage Board, Gift of Mr G. K. Goh">       
+       
 
 Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America. [^1] The term tapioca is derived from tipi'óka, its name in the Tupi language spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as ubi kayu in Malay and as mu shu (木薯) in Chinese. [^3]
 
