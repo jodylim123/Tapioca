@@ -16,7 +16,10 @@ Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 aft
 Tapioca was brought into the Straits Settlements and the Federated Malay States in the nineteenth century as a plantation crop. [^4] In 1880, the Trafalgar Estate at Seletar dedicated 400 hectares of land to the cultivation of tapioca by mainly Chinese farmers. [^5] In addition to planting and harvesting tapioca, local workers also processed the crop at the Estate. This processing for consumption and sale included grinding the tapioca and sieving it into flour and pearls. [^6] Beyond Trafalgar Estate, this plantation was also cultivated in Bukit Timah, Serangoon, and Telok Blangah. [^7] Thus, the popularity of this plantation crop can be seen through this specific factory. Indeed, tapioca planting reached its peak in the second half of the nineteenth century. [^8]
 <param ve-iframe 
        src="https://digitalgems.nus.edu.sg/persistent/18fac49d-e52d-4893-9b3e-5bf7dcd1dfbf#search=%20trafalgar"
-      >
+       #title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Held by Kew Gardens."
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries" >
 
 
 However, the cultivation of tapioca soon declined as rubber became a more lucrative crop to grow for the colonists. Tapioca cultivation was also destructive to the soil and official opinion started to oppose the planting of tapioca in the 1890s. [^9] First, it was regulated and then more stringent measures were put in place, such as tapioca land grants requiring concurrent cultivation of permanent crops like coconut or rubber. [^10] In the early twentieth century, a sharp drop of prices further accelerated the tapioca industry’s decline. [^11]
