@@ -9,13 +9,19 @@
 
 In Singapore, one can scarcely walk into a shopping mall without seeing a bubble tea shop. This story’s focus, the tapioca, is a key ingredient in bubble tea: Its boba pearls are made of tapioca flour. Yet, tapioca consumption in Singapore dates back to the 1800s, long before the introduction of this ubiquitous Taiwanese dessert drink. 
 
-Tapioca is scientifically known as Manihot esculenta Crantz. Named in 1766 after a botanist from Luxembourg, Heinrich Johann Nepomuk von Crantz, it is native to South America. [^1] The term tapioca is derived from tipi'óka, its name in the Tupi language spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as ubi kayu in Malay and as mu shu (木薯) in Chinese. [^3]
+Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, [Heinrich Johann Nepomuk von Crantz] (https://en.wikipedia.org/wiki/Heinrich_Johann_Nepomuk_von_Crantz), it is native to South America. [^1] The term tapioca is derived from tipi'óka, its name in the Tupi language spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as ubi kayu in Malay and as mu shu (木薯) in Chinese. [^3]
+
+## Plantation Crop: Introduction into Malaya
+
+Tapioca was brought into the Straits Settlements and the Federated Malay States in the nineteenth century as a plantation crop. [^4] In 1880, the Trafalgar Estate at Seletar dedicated 400 hectares of land to the cultivation of tapioca by mainly Chinese farmers. [^5] In addition to planting and harvesting tapioca, local workers also processed the crop at the Estate. This processing for consumption and sale included grinding the tapioca and sieving it into flour and pearls. [^6] Beyond Trafalgar Estate, this plantation was also cultivated in Bukit Timah, Serangoon, and Telok Blangah. [^7] Thus, the popularity of this plantation crop can be seen through this specific factory. Indeed, tapioca planting reached its peak in the second half of the nineteenth century. [^8]
 
 
 ## References
 [^1]: Antonio C. Allem, “The Origin of Manihot esculenta Crantz (Euphorbiaceae)” Genetic Resources and Crop Evolution 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf 
 [^2]: “Tapioca Word History,” Merriam-Webster, accessed November 27, 2022. https://www.merriam-webster.com/dictionary/tapioca#word-history 
 [^3]: “Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210
+[^4}:   Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” Journal of Biogeography 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
+[^5]: 
 
 
 
