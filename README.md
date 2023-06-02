@@ -105,8 +105,18 @@ Furthermore, a 4 August 1942 article in the Syonan Shimbun reveals how “Kang S
 
 
 After the Occupation, tapioca was even more unpopular to the layperson. As historian Paul Kratoska puts it, “The Malayan population had not eaten well under Japanese rule, and people wanted to be liberated not only from Japan but also from tapioca.” [^20] Thus, the food shortages post-occupation could no longer be remedied by tapioca. A 1946 Malaya Tribune editorial advised, “Everywhere we see the ruins of gardens torn up with gay abandon during the delirious days immediately following the reoccupation. These gardens should be replanted at once with green vegetables and even the despised tapioca.” [^21] However, between December 1945 to April 1946, the area used for cultivating tapioca dropped from 133,000 acres to 99,000 acres. [^22] Once again, tapioca cultivation was on the downturn in Singapore. 
+<param ve-image 
+       url="Tapioca/media/Malayan_Tribune.png"
+       title="Spectre of Famine" 
+       attribution="Malayan Tribune"
+       license="CC BY-NC, digitised by NUS Libraries">
 
 Although tapioca is no longer widely cultivated in Singapore, the crop has left its mark on Singapore’s landscape. Today’s Ubi Estate and Jalan Ubi, in Geylang, are reminders of Kampong Ubi—an area that gained its name because its residents grew tapioca during the Japanese Occupation. [^23] Tapioca persists in Singapore’s culinary landscape, as well.
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c1/DT27_Ubi_MRT_station_Exit_A_20200911_113806.jpg"
+       title="DT27 Ubi MRT station Exit A" 
+       attribution="ZKang123"
+       license="CC BY-SA 4.0">
 
 ## Nyonya Cuisine: Women who Write 
 
