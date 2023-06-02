@@ -9,7 +9,7 @@
 
 In Singapore, one can scarcely walk into a shopping mall without seeing a bubble tea shop. This story’s focus, the tapioca, is a key ingredient in bubble tea: Its boba pearls are made of tapioca flour. Yet, tapioca consumption in Singapore dates back to the 1800s, long before the introduction of this ubiquitous Taiwanese dessert drink. 
 <param ve-image 
-       url="https://commons.wikimedia.org/wiki/File:A_bubble_tea_with_tapioca_pearls,_July_2018.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/3/33/A_bubble_tea_with_tapioca_pearls%2C_July_2018.jpg"
        title="A Bubble Tea with Tapioca Pearls" 
        license="CC0 1.0">
 
