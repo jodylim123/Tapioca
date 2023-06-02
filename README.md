@@ -21,17 +21,66 @@ Tapioca was brought into the Straits Settlements and the Federated Malay States 
 <param ve-image 
        url="Tapioca/media/tapioca cultivation.png"
        title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Weeding in the Tapioca plantation at Trafalgar Estate"
        attribution="G.R. Lambert & Co."
-       license="CC BY-NC, digitised by NUS Libraries" >
- <param ve-image 
-       url="Tapioca/media/tapioca manure making.png"
+       license="CC BY-NC, digitised by NUS Libraries">
+<param ve-image 
+       url="Tapioca/media/Tapioca_Digging.png"
        title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Labourers working on the Tapioca plantation at Trafalgar Estate"
        attribution="G.R. Lambert & Co."
-       license="CC BY-NC, digitised by NUS Libraries" >      
-       
+       license="CC BY-NC, digitised by NUS Libraries"> 
+<param ve-image 
+       url="Tapioca/media/Tapioca_Grounding.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Tapioca grinding on the Tapioca plantation at Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries"> 
+<param ve-image 
+       url="Tapioca/media/Tapioca_Washing.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Washing Mill on the Tapioca plantation at Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries"> 
+<param ve-image 
+       url="Tapioca/media/Tapioca_Washing_Vats.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Washing Vats on the Tapioca plantation at Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries"> 
+<param ve-image 
+       url="Tapioca/media/Tapioca_Pearl.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Workers sieving through Tapioca pearls and flour on Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries"> 
+<param ve-image 
+       url="Tapioca/media/Tapioca_Drying_Panss.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Drying Pans on the Tapioca plantation at Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries"> 
 
 
 However, the cultivation of tapioca soon declined as rubber became a more lucrative crop to grow for the colonists. Tapioca cultivation was also destructive to the soil and official opinion started to oppose the planting of tapioca in the 1890s. [^9] First, it was regulated and then more stringent measures were put in place, such as tapioca land grants requiring concurrent cultivation of permanent crops like coconut or rubber. [^10] In the early twentieth century, a sharp drop of prices further accelerated the tapioca industry’s decline. [^11]
+<param ve-image 
+       url="Tapioca/media/tapioca making manure.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Making Manure in the Tapioca plantation at Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries" >  
+<param ve-image 
+       url="Tapioca/media/Tapioca_Growing_Field.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="A Growing Field on the Tapioca plantation at Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries"> 
+<param ve-image 
+       url="Tapioca/media/Tapioca_Factory.png"
+       title="Reminiscences of Trafalgar Estate, Singapore" 
+       description="Factory Buildings on the Tapioca plantation at Trafalgar Estate"
+       attribution="G.R. Lambert & Co."
+       license="CC BY-NC, digitised by NUS Libraries"> 
 
 ## Wartime Survival Food: Despised but Necessary
 
