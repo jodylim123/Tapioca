@@ -12,6 +12,13 @@ In Singapore, one can scarcely walk into a shopping mall without seeing a bubble
 Tapioca is scientifically known as Manihot esculenta Crantz. Named in 1766 after a botanist from Luxembourg, Heinrich Johann Nepomuk von Crantz, it is native to South America. [^1] The term tapioca is derived from tipi'óka, its name in the Tupi language spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as ubi kayu in Malay and as mu shu (木薯) in Chinese. [^3]
 
 
+## References
+[^1]: Antonio C. Allem, “The Origin of Manihot esculenta Crantz (Euphorbiaceae)” Genetic Resources and Crop Evolution 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf 
+[^2]: “Tapioca Word History,” Merriam-Webster, accessed November 27, 2022. https://www.merriam-webster.com/dictionary/tapioca#word-history 
+[^3]: “Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210
+
+
+
 ## Juncture Guide Below
        
 For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
