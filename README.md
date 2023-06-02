@@ -8,6 +8,10 @@
 ## Tapioca Pearls: A modern day obsession
 
 In Singapore, one can scarcely walk into a shopping mall without seeing a bubble tea shop. This story’s focus, the tapioca, is a key ingredient in bubble tea: Its boba pearls are made of tapioca flour. Yet, tapioca consumption in Singapore dates back to the 1800s, long before the introduction of this ubiquitous Taiwanese dessert drink. 
+<param ve-image 
+       url="https://commons.wikimedia.org/wiki/File:A_bubble_tea_with_tapioca_pearls,_July_2018.jpg"
+       title="A Bubble Tea with Tapioca Pearls" 
+       license="CC0 1.0">
 
 Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, <span eid = "Q112261"> Heinrich Johann Nepomuk von Crantz </span>, it is native to South America. [^1] The term tapioca is derived from tipi'óka, its name in the Tupi language spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as ubi kayu in Malay and as mu shu (木薯) in Chinese. [^3]
 
