@@ -15,13 +15,14 @@ In Singapore, one can scarcely walk into a shopping mall without seeing a bubble
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1080187.jpg"
        title="Tapioca, William Farquhar Collection of Natural History Drawings" 
-       attribution= "Collection of the National Museum of Singapore, National Heritage Board, Gift of Mr G. K. Goh">       
+       attribution= "Collection of the National Museum of Singapore, National Heritage Board, Gift of Mr G. K. Goh"
+       fit="contain">       
        
 
-Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America. [^1] The term tapioca is derived from tipi'óka, its Tupi language name which was spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as ubi kayu in Malay and as mu shu (木薯) in Chinese. [^3]
+Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America. [^1] The term tapioca is derived from tipi'óka, its Tupi language name which was spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as *ubi kayu* in Malay and as *mu shu* (木薯) in Chinese. [^3]
 <param ve-map-layer
        center="Q155">
-<param ve-map-layer
+<param ve-map
        center= "Q871091">
 
 ## Plantation Crop: Introduction into Malaya
@@ -93,13 +94,12 @@ However, the cultivation of tapioca soon declined as rubber became a more lucrat
 
 ## Wartime Survival Food: Despised but Necessary
 
-“I am broke, I want to plant tapioca.” 
-
+>“I am broke, I want to plant tapioca.” 
 This is a quote from an oral history interview from Mr. Sng Choon Yee, who became a tapioca seller during the Japanese occupation of Singapore from 1942 to 1945. [^12] Mr. Sng’s oral history gives an insight into the lifestyles of locals during this period, in which there were severe food shortages due to wartime trade embargoes and the Japanese policy of autarky or economic self-sufficiency. To remedy this, there was a reconfiguration of office hours: Offices closed at 2pm and their workers tended to gardens from 3pm until nightfall. Many Singaporeans, including Mr. Sng, turned to small-scale subsistence farming to supplement their incomes and diets. [^13]
 
 In the interview, Sng details how he managed to get space to plant tapioca in land-scarce Singapore. As a member of the Hokkien Huay Kuan, a Chinese clan association, he requested to use the association’s cemetery land to plant tapioca. The Huay Kuan allowed him to utilise the cemetery land, located near today’s Whitley and Adam Road,  as long as he did not dig up the graves. [^14] In contrast to colonial plantations, the growing of tapioca during the Japanese Occupation was mainly scaled at the individual level as a means to earn enough money to survive. 
 <param iframe 
-       src="https://www.google.com/maps/d/embed?mid=1fsx-l0Tsb5VxK5cn4sJW6vZuMfg&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+       src="https://www.google.com/maps/d/embed?mid=1fsx-l0Tsb5VxK5cn4sJW6vZuMfg&hl=en&ehbc=2E312F" width="640" height="480">
 
 Tapioca cultivation provided a means of subsistence for many during the Japanese Occupation. On Sng’s plot, young boys would help him plant tapioca on an unpaid basis. They brought their own tools like the changkol or the plough. The boys used the Malay name for tapioca—ubi kayu. They were also more irreverent of the cemetery than Sng and his business partner: They would shift bones to obtain more land for planting tapioca. When Sng tried to stop them, the boys justified that the remains were of Australian soldiers killed in war, and not Chinese bodies. This shows how the desecration of the graves was justified by the need to harvest tapioca as a commercial crop. 
 
@@ -107,15 +107,15 @@ Furthermore, the variety of food had reduced as Japanese authorities requisition
 
 Even with the promotion of tapioca cultivation during the occupation, people were compelled to profiteer off tapioca.  Although the boys in Sng’s plot were unpaid, they received a commission when the tapioca was sold. The boys would sell the tapioca at the markets to “red-cloth house builders”, which likely meant the <span eid: "Q7410435">samsui women</span>. Inflation also caused the price of tapioca to be paid in gunny bags of money. 100 katis was one gunny bag, which contained a whopping $130,000 in banana money. Thus, tapioca suddenly experienced a resurgence of use, only this time it was out of necessity, rather than for the accumulation of wealth. With massive war time inflation, this former cash crop ironically regained its monetary value. 
 
-Furthermore, a 4 August 1942 article in the Syonan Shimbun reveals how “Kang Siang Gee, a proprietor of a substantial wholesale business in Teluk Ayer Street, was fined $1,500 or nine months’ rigorous imprisonment” for profiteering on tapioca flour. [^18] He had sold a sack of tapioca flour priced at an inflated price of $22.85, about 66% higher than its usual price of $13.76. Kang also had 1204 catties of tapioca flour in his shop. The salesman, Kang Tai Lye, was also convicted and subjected to a fine of $750 or two months’ and two weeks’ rigorous imprisonment. [^19] This illustrates the thriving black market during the occupation and the harsh punishments that came with breaking the law. 
+Furthermore, a 4 August 1942 article in the *Syonan Shimbun* reveals how “Kang Siang Gee, a proprietor of a substantial wholesale business in Teluk Ayer Street, was fined $1,500 or nine months’ rigorous imprisonment” for profiteering on tapioca flour. [^18] He had sold a sack of tapioca flour priced at an inflated price of $22.85, about 66% higher than its usual price of $13.76. Kang also had 1204 catties of tapioca flour in his shop. The salesman, Kang Tai Lye, was also convicted and subjected to a fine of $750 or two months’ and two weeks’ rigorous imprisonment. [^19] This illustrates the thriving black market during the occupation and the harsh punishments that came with breaking the law. 
 <param ve-image 
        url="Tapioca/media/syonan_shimbun.png"
        title="Dealer in Tapioca Flour fined $1,5000" 
        attribution="Syonan Shimbun"
-       license="CC BY-NC, digitised by NUS Libraries">
+       license="CC BY-NC, digitised by NUS Libraries"
+       fit="contain">
 
-
-After the Occupation, tapioca was even more unpopular to the layperson. As historian Paul Kratoska puts it, “The Malayan population had not eaten well under Japanese rule, and people wanted to be liberated not only from Japan but also from tapioca.” [^20] Thus, the food shortages post-occupation could no longer be remedied by tapioca. A 1946 Malaya Tribune editorial advised, “Everywhere we see the ruins of gardens torn up with gay abandon during the delirious days immediately following the reoccupation. These gardens should be replanted at once with green vegetables and even the despised tapioca.” [^21] However, between December 1945 to April 1946, the area used for cultivating tapioca dropped from 133,000 acres to 99,000 acres. [^22] Once again, tapioca cultivation was on the downturn in Singapore. 
+After the Occupation, tapioca was even more unpopular to the layperson. As historian Paul Kratoska puts it, “The Malayan population had not eaten well under Japanese rule, and people wanted to be liberated not only from Japan but also from tapioca.” [^20] Thus, the food shortages post-occupation could no longer be remedied by tapioca. A 1946 *Malaya Tribune* editorial advised, “Everywhere we see the ruins of gardens torn up with gay abandon during the delirious days immediately following the reoccupation. These gardens should be replanted at once with green vegetables and even the despised tapioca.” [^21] However, between December 1945 to April 1946, the area used for cultivating tapioca dropped from 133,000 acres to 99,000 acres. [^22] Once again, tapioca cultivation was on the downturn in Singapore. 
 <param ve-image 
        url="Tapioca/media/Malayan_Tribune.png"
        title="Spectre of Famine" 
@@ -157,7 +157,7 @@ Through a species lens, we can trace the tapioca through different periods in Si
 [^1]: Antonio C. Allem, “The Origin of Manihot esculenta Crantz (Euphorbiaceae)” Genetic Resources and Crop Evolution 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf 
 [^2]: “Tapioca Word History,” Merriam-Webster, accessed November 27, 2022. https://www.merriam-webster.com/dictionary/tapioca#word-history 
 [^3]: “Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210
-[^4}:   Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” Journal of Biogeography 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
+[^4}: Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” Journal of Biogeography 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
 [^5]: 
 
 
