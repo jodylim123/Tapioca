@@ -93,7 +93,7 @@ However, the cultivation of tapioca soon declined as rubber became a more lucrat
 
 >“I am broke, I want to plant tapioca.” 
 
-This is a quote from an oral history interview from Mr. Sng Choon Yee, who became a tapioca seller during the Japanese occupation of Singapore from 1942 to 1945. [^12] Mr. Sng’s oral history gives an insight into the lifestyles of locals during this period, in which there were severe food shortages due to wartime trade embargoes and the Japanese policy of autarky or economic self-sufficiency. To remedy this, there was a reconfiguration of office hours: Offices closed at 2pm and their workers tended to gardens from 3pm until nightfall. Many Singaporeans, including Mr. Sng, turned to small-scale subsistence farming to supplement their incomes and diets. [^13]
+This is a quote from an [oral history interview](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dff97246-115d-11e3-83d5-0050568939ad?keywords=tapioca&keywords-type=all) from Mr. Sng Choon Yee, who became a tapioca seller during the Japanese occupation of Singapore from 1942 to 1945. [^12] Mr. Sng’s oral history gives an insight into the lifestyles of locals during this period, in which there were severe food shortages due to wartime trade embargoes and the Japanese policy of autarky or economic self-sufficiency. To remedy this, there was a reconfiguration of office hours: Offices closed at 2pm and their workers tended to gardens from 3pm until nightfall. Many Singaporeans, including Mr. Sng, turned to small-scale subsistence farming to supplement their incomes and diets. [^13]
 
 In the interview, Sng details how he managed to get space to plant tapioca in land-scarce Singapore. As a member of the Hokkien Huay Kuan, a Chinese clan association, he requested to use the association’s cemetery land to plant tapioca. The Huay Kuan allowed him to utilise the cemetery land, located near today’s Whitley and Adam Road,  as long as he did not dig up the graves. [^14] In contrast to colonial plantations, the growing of tapioca during the Japanese Occupation was mainly scaled at the individual level as a means to earn enough money to survive. 
 <param ve-iframe 
@@ -137,20 +137,23 @@ Tapioca flour is a starch made by washing and pulping tapioca. Locally, it is us
        attribution="Choo Yut Shing"
        license="CC BY-NC-SA 2.0">
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/7/70/Kuih_bangkit.jpg"
+       url="https://live.staticflickr.com/3934/15401800378_5f0f83a660_h.jpg"
        title="Kuih Ubi Kayu" 
        attribution="Choo Yut Shing"
        license="CC BY-NC-SA 2.0">
 
-Also made using tapioca flour, Kueh Bangkit, not to be confused with Kueh Bingkar, is a small white cookie eaten during Lunar New Year celebrations. Many recipes for this biscuit appear in old newspapers, intended for home bakers preparing for Lunar New Year festivities. In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”, Margaret Chan, New Nation food columnist, provides a recipe for Kueh Bangkit. [^25]
+Also made using tapioca flour, Kueh Bangkit, not to be confused with Kueh Bingkar, is a small white cookie eaten during Lunar New Year celebrations. Many recipes for this biscuit appear in old newspapers, intended for home bakers preparing for Lunar New Year festivities. 
 <param ve-image
-       url="https://live.staticflickr.com/3934/15401800378_5f0f83a660_h.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/7/70/Kuih_bangkit.jpg"
        title="Kuih Bangkit" 
        attribution="ProjectManhattan"
        license="CC BY-SA 3.0">
 
-
-Beyond the recipe, she also gives handy tips for making the perfect kueh. Chan advises that while pre-frying the flour, “the flour will exude a fragrance and will become lighter to stir as the moisture is evaporated.” [^26] She also gives suggestions on where to get the ingredients: “Kueh Bangkit can be flavoured with vanilla essence or the new Star Brand pandan essence or pandan powder from Spices of the Orient.” [^27] In another 1980 New Nation article, Chan compiles Kueh Bangkit recipes from other women as well. For example, Mrs. Marican describes her Kueh Bangkit recipe slightly differently from Chan. [^28] She adds a personal, experienced touch to her description of how “she simply pats the dough flat with her hands and does not bother with a rolling pin.” [^29] This compilation is unique in giving many variations of the Kueh Bangkit recipe, reflecting the experiences and tastes of the women behind them. 
+In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”, Margaret Chan, New Nation food columnist, provides a recipe for Kueh Bangkit. [^25]Beyond the recipe, she also gives handy tips for making the perfect kueh. Chan advises that while pre-frying the flour, “the flour will exude a fragrance and will become lighter to stir as the moisture is evaporated.” [^26] She also gives suggestions on where to get the ingredients: “Kueh Bangkit can be flavoured with vanilla essence or the new Star Brand pandan essence or pandan powder from Spices of the Orient.” [^27] In another 1980 New Nation article, Chan compiles Kueh Bangkit recipes from other women as well. For example, Mrs. Marican describes her Kueh Bangkit recipe slightly differently from Chan. [^28] She adds a personal, experienced touch to her description of how “she simply pats the dough flat with her hands and does not bother with a rolling pin.” [^29] This compilation is unique in giving many variations of the Kueh Bangkit recipe, reflecting the experiences and tastes of the women behind them. 
+<param ve-image
+       url="Tapioca/media/kueh_bangkit_recipe.png"
+       title="Kueh Bangkit Recipe" 
+       attribution="Jody Lim">                           
 
 Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html) is a Peranakan woman who has had a diverse career as a television and film actress and food critic; she is currently an associate professor at Singapore Management University’s School of Social Sciences. [^30] She was a pioneering food critic in Singapore, and many restaurant advertisements from the 1990s specifically highlighted her words of praise. Commended as a “Top Food Columnist,” [^31] a Harbour City Restaurant advertisement describes her as follows: “She fills her column unabashedly and candidly. A true professional.” [^32] She reviewed a multitude of cuisines beyond just Peranakan food, including Cantonese or Indonesian cuisine. Through her recipes and reviews, she helped to define food culture in Singapore.
 
