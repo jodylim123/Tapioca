@@ -161,6 +161,12 @@ In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”,
 Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html) is a Peranakan woman who has had a diverse career as a television and film actress and food critic; she is currently an associate professor at Singapore Management University’s School of Social Sciences. [^30] She was a pioneering food critic in Singapore, and many restaurant advertisements from the 1990s specifically highlighted her words of praise. Commended as a “Top Food Columnist,” [^31] a Harbour City Restaurant advertisement describes her as follows: “She fills her column unabashedly and candidly. A true professional.” [^32] She reviewed a multitude of cuisines beyond just Peranakan food, including Cantonese or Indonesian cuisine. Through her recipes and reviews, she helped to define food culture in Singapore.
 
 Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local Peranakan culture as she was the first Singaporean to play the titular role in Stella Kon’s play Emily of Emerald Hill. This one-woman play details the life of a Nyonya throughout her journey as a daughter, mother, and eventually matriarch of her family. In 1986, Margaret Chan even performed the play at the Commonwealth Arts Festival in Edinburgh, bringing this uniquely Singaporean play to the world stage. [^33] Through her culinary and stage career, Margaret Chan has become a key representative of the Peranakan culture in contemporary Singapore, especially amidst the broader Peranakan cultural revival of the 1980s. 
+<param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1321794.jpg"
+       title="Emily of Emerald Hill - Margaret Chan fundraising programme" 
+       attribution= "Collection of the Peranakan Museum, National Heritage Board, Gift of Stella Kon"
+       fit="contain"> #haven't decided permission#
+
 
 Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue spotlight on the realm of food and women’s history in Singapore.
 
