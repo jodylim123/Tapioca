@@ -107,7 +107,13 @@ Furthermore, the variety of food had reduced as Japanese authorities requisition
        fit="contain">
 
 Even with the promotion of tapioca cultivation during the occupation, people were compelled to profiteer off tapioca.  Although the boys in Sng’s plot were unpaid, they received a commission when the tapioca was sold. The boys would sell the tapioca at the markets to “red-cloth house builders”, which likely meant the <span eid: "Q7410435">samsui women </span>. Inflation also caused the price of tapioca to be paid in gunny bags of money. 100 katis was one gunny bag, which contained a whopping $130,000 in banana money. Thus, tapioca suddenly experienced a resurgence of use, only this time it was out of necessity, rather than for the accumulation of wealth. With massive war time inflation, this former cash crop ironically regained its monetary value. 
-
+<param ve-image
+       url="https://live.staticflickr.com/65535/51300057854_4ffcdbabd3_h.jpg"
+       title="Samsui Woman" 
+       description="Part of the Thian Hock Keng's Temple wall mural by Yip Yew Chong at Amoy Street"
+       attribution="Choo Yut Shing"
+       license="CC BY-NC-SA 2.0">
+                         
 Furthermore, a 4 August 1942 article in the *Syonan Shimbun* reveals how “Kang Siang Gee, a proprietor of a substantial wholesale business in Teluk Ayer Street, was fined $1,500 or nine months’ rigorous imprisonment” for profiteering on tapioca flour. [^18] He had sold a sack of tapioca flour priced at an inflated price of $22.85, about 66% higher than its usual price of $13.76. Kang also had 1204 catties of tapioca flour in his shop. The salesman, Kang Tai Lye, was also convicted and subjected to a fine of $750 or two months’ and two weeks’ rigorous imprisonment. [^19] This illustrates the thriving black market during the occupation and the harsh punishments that came with breaking the law. 
 <param ve-image 
        url="Tapioca/media/syonan_shimbun.png"
@@ -150,15 +156,22 @@ Also made using tapioca flour, Kueh Bangkit, not to be confused with Kueh Bingka
        url="https://upload.wikimedia.org/wikipedia/commons/7/70/Kuih_bangkit.jpg"
        title="Kuih Bangkit" 
        attribution="ProjectManhattan"
-       license="CC BY-SA 3.0">
+       license="CC BY-SA 3.0"
+       fit="contain">
 
 In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”, Margaret Chan, New Nation food columnist, provides a recipe for Kueh Bangkit. [^25]Beyond the recipe, she also gives handy tips for making the perfect kueh. Chan advises that while pre-frying the flour, “the flour will exude a fragrance and will become lighter to stir as the moisture is evaporated.” [^26] She also gives suggestions on where to get the ingredients: “Kueh Bangkit can be flavoured with vanilla essence or the new Star Brand pandan essence or pandan powder from Spices of the Orient.” [^27] In another 1980 New Nation article, Chan compiles Kueh Bangkit recipes from other women as well. For example, Mrs. Marican describes her Kueh Bangkit recipe slightly differently from Chan. [^28] She adds a personal, experienced touch to her description of how “she simply pats the dough flat with her hands and does not bother with a rolling pin.” [^29] This compilation is unique in giving many variations of the Kueh Bangkit recipe, reflecting the experiences and tastes of the women behind them. 
 <param ve-image
        url="Tapioca/media/kueh_bangkit_recipe.png"
        title="Margaret Chan's Kueh Bangkit Recipe" 
-       attribution="Jody Lim">                           
+       attribution="Jody Lim"
+       fit="contain">                           
 
 Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html) is a Peranakan woman who has had a diverse career as a television and film actress and food critic; she is currently an associate professor at Singapore Management University’s School of Social Sciences. [^30] She was a pioneering food critic in Singapore, and many restaurant advertisements from the 1990s specifically highlighted her words of praise. Commended as a “Top Food Columnist,” [^31] a Harbour City Restaurant advertisement describes her as follows: “She fills her column unabashedly and candidly. A true professional.” [^32] She reviewed a multitude of cuisines beyond just Peranakan food, including Cantonese or Indonesian cuisine. Through her recipes and reviews, she helped to define food culture in Singapore.
+<param ve-image 
+       url="Tapioca/media/placeholder_chan_adverts.png"
+       title="Placeholder Adverts" 
+       attribution= "SPH"
+       fit="contain"> #haven't decided permission#
 
 Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local Peranakan culture as she was the first Singaporean to play the titular role in Stella Kon’s play Emily of Emerald Hill. This one-woman play details the life of a Nyonya throughout her journey as a daughter, mother, and eventually matriarch of her family. In 1986, Margaret Chan even performed the play at the Commonwealth Arts Festival in Edinburgh, bringing this uniquely Singaporean play to the world stage. [^33] Through her culinary and stage career, Margaret Chan has become a key representative of the Peranakan culture in contemporary Singapore, especially amidst the broader Peranakan cultural revival of the 1980s. 
 <param ve-image 
@@ -169,6 +182,7 @@ Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local
 
 
 Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue spotlight on the realm of food and women’s history in Singapore.
+
 
 ## Tapioca: Beyond the Bubble
 
