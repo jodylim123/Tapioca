@@ -105,7 +105,8 @@ Furthermore, the variety of food had reduced as Japanese authorities requisition
 <param ve-video 
        id="R8XTJi9NK4E" 
        title="Making Wartime Food Delicious | From Book to Cook #02"
-       start="5:48">
+       start="5:48"
+       fit = "contain">
 
 Even with the promotion of tapioca cultivation during the occupation, people were compelled to profiteer off tapioca.  Although the boys in Sng’s plot were unpaid, they received a commission when the tapioca was sold. The boys would sell the tapioca at the markets to “red-cloth house builders”, which likely meant the <span eid: "Q7410435">samsui women </span>. Inflation also caused the price of tapioca to be paid in gunny bags of money. 100 katis was one gunny bag, which contained a whopping $130,000 in banana money. Thus, tapioca suddenly experienced a resurgence of use, only this time it was out of necessity, rather than for the accumulation of wealth. With massive war time inflation, this former cash crop ironically regained its monetary value. 
 
