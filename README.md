@@ -19,7 +19,7 @@ In Singapore, one can scarcely walk into a shopping mall without seeing a bubble
        fit="contain">       
        
 
-Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America. [^1] The term tapioca is derived from tipi'óka, its Tupi language name which was spoken by natives when the Portuguese arrived in Brazil in the 1500s. [^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as *ubi kayu* in Malay and as *mu shu* (木薯) in Chinese. [^3]
+Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America.[^1] The term tapioca is derived from *tipi'óka*, its Tupi language name which was spoken by natives when the Portuguese arrived in Brazil in the 1500s.[^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as *ubi kayu* in Malay and as *mu shu* (木薯) in Chinese.[^3]
 <param ve-map-layer
        center="Q155">
 <param ve-map
@@ -30,49 +30,42 @@ Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 aft
 Tapioca was brought into the Straits Settlements and the Federated Malay States in the nineteenth century as a plantation crop. [^4] In 1880, the Trafalgar Estate at Seletar dedicated 400 hectares of land to the cultivation of tapioca by mainly Chinese farmers. [^5] In addition to planting and harvesting tapioca, local workers also processed the crop at the Estate. This processing for consumption and sale included grinding the tapioca and sieving it into flour and pearls. [^6] Beyond Trafalgar Estate, this plantation was also cultivated in Bukit Timah, Serangoon, and Telok Blangah. [^7] Thus, the popularity of this plantation crop can be seen through this specific factory. Indeed, tapioca planting reached its peak in the second half of the nineteenth century. [^8]
 <param ve-image 
        url="Tapioca/media/tapioca cultivation.png"
-       title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Weeding in the Tapioca plantation at Trafalgar Estate"
-       attribution="G.R. Lambert & Co."
+       label="Weeding in the Tapioca plantation at Trafalgar Estate"
+       attribution="Reminiscences of Trafalgar Estate, Singapore, G.R. Lambert & Co."
        license="CC BY-NC, digitised by NUS Libraries">
 <param ve-image 
        url="Tapioca/media/Tapioca_Digging.png"
-       title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Labourers working on the Tapioca plantation at Trafalgar Estate"
-       attribution="G.R. Lambert & Co."
+       label="Labourers working on the Tapioca plantation at Trafalgar Estate"
+       attribution="Reminiscences of Trafalgar Estate, Singapore, G.R. Lambert & Co."
        license="CC BY-NC, digitised by NUS Libraries"> 
 <param ve-image 
        url="Tapioca/media/Tapioca_Grounding.png"
-       title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Tapioca grinding on the Tapioca plantation at Trafalgar Estate"
-       attribution="G.R. Lambert & Co."
+       label="Tapioca grinding on the Tapioca plantation at Trafalgar Estate"
+       attribution="Reminiscences of Trafalgar Estate, Singapore, G.R. Lambert & Co."
        license="CC BY-NC, digitised by NUS Libraries"> 
 <param ve-image 
        url="Tapioca/media/Tapioca_Washing.png"
-       title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Washing Mill on the Tapioca plantation at Trafalgar Estate"
-       attribution="G.R. Lambert & Co."
+       label="Washing Mill on the Tapioca plantation at Trafalgar Estate"
+       attribution="Reminiscences of Trafalgar Estate, Singapore, G.R. Lambert & Co.""
        license="CC BY-NC, digitised by NUS Libraries"> 
 <param ve-image 
        url="Tapioca/media/Tapioca_Washing_Vats.png"
-       title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Washing Vats on the Tapioca plantation at Trafalgar Estate"
-       attribution="G.R. Lambert & Co."
+       label="Washing Vats on the Tapioca plantation at Trafalgar Estate"
+       attribution="Reminiscences of Trafalgar Estate, Singapore, G.R. Lambert & Co."
        license="CC BY-NC, digitised by NUS Libraries"> 
 <param ve-image 
        url="Tapioca/media/Tapioca_Pearl.png"
-       title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Workers sieving through Tapioca pearls and flour on Trafalgar Estate"
-       attribution="G.R. Lambert & Co."
+       label="Workers sieving through Tapioca pearls and flour on Trafalgar Estate"
+       attribution="Reminiscences of Trafalgar Estate, Singapore, G.R. Lambert & Co."
        license="CC BY-NC, digitised by NUS Libraries"> 
 <param ve-image 
        url="Tapioca/media/Tapioca_Drying_Panss.png"
-       title="Reminiscences of Trafalgar Estate, Singapore" 
-       description="Drying Pans on the Tapioca plantation at Trafalgar Estate"
-       attribution="G.R. Lambert & Co."
+       label="Drying Pans on the Tapioca plantation at Trafalgar Estate"
+       attribution="Reminiscences of Trafalgar Estate, Singapore, G.R. Lambert & Co."
        license="CC BY-NC, digitised by NUS Libraries"> 
 
 
-However, the cultivation of tapioca soon declined as rubber became a more lucrative crop to grow for the colonists. Tapioca cultivation was also destructive to the soil and official opinion started to oppose the planting of tapioca in the 1890s. [^9] First, it was regulated and then more stringent measures were put in place, such as tapioca land grants requiring concurrent cultivation of permanent crops like coconut or rubber. [^10] In the early twentieth century, a sharp drop of prices further accelerated the tapioca industry’s decline. [^11]
+However, the cultivation of tapioca soon declined as rubber became a more lucrative crop to grow for the colonists. Tapioca cultivation was also destructive to the soil and official opinion started to oppose the planting of tapioca in the 1890s.[^9] First, it was regulated and then more stringent measures were put in place, such as tapioca land grants requiring concurrent cultivation of permanent crops like coconut or rubber. [^10] In the early twentieth century, a sharp drop of prices further accelerated the tapioca industry’s decline. [^11]
 <param ve-image 
        url="Tapioca/media/tapioca making manure.png"
        title="Reminiscences of Trafalgar Estate, Singapore" 
@@ -95,11 +88,12 @@ However, the cultivation of tapioca soon declined as rubber became a more lucrat
 ## Wartime Survival Food: Despised but Necessary
 
 >“I am broke, I want to plant tapioca.” 
+
 This is a quote from an oral history interview from Mr. Sng Choon Yee, who became a tapioca seller during the Japanese occupation of Singapore from 1942 to 1945. [^12] Mr. Sng’s oral history gives an insight into the lifestyles of locals during this period, in which there were severe food shortages due to wartime trade embargoes and the Japanese policy of autarky or economic self-sufficiency. To remedy this, there was a reconfiguration of office hours: Offices closed at 2pm and their workers tended to gardens from 3pm until nightfall. Many Singaporeans, including Mr. Sng, turned to small-scale subsistence farming to supplement their incomes and diets. [^13]
 
 In the interview, Sng details how he managed to get space to plant tapioca in land-scarce Singapore. As a member of the Hokkien Huay Kuan, a Chinese clan association, he requested to use the association’s cemetery land to plant tapioca. The Huay Kuan allowed him to utilise the cemetery land, located near today’s Whitley and Adam Road,  as long as he did not dig up the graves. [^14] In contrast to colonial plantations, the growing of tapioca during the Japanese Occupation was mainly scaled at the individual level as a means to earn enough money to survive. 
 <param iframe 
-       src="https://www.google.com/maps/d/embed?mid=1fsx-l0Tsb5VxK5cn4sJW6vZuMfg&hl=en&ehbc=2E312F" width="640" height="480">
+       src="https://www.google.com/maps/d/embed?mid=1fsx-l0Tsb5VxK5cn4sJW6vZuMfg&hl=en&ehbc=2E312F">
 
 Tapioca cultivation provided a means of subsistence for many during the Japanese Occupation. On Sng’s plot, young boys would help him plant tapioca on an unpaid basis. They brought their own tools like the changkol or the plough. The boys used the Malay name for tapioca—ubi kayu. They were also more irreverent of the cemetery than Sng and his business partner: They would shift bones to obtain more land for planting tapioca. When Sng tried to stop them, the boys justified that the remains were of Australian soldiers killed in war, and not Chinese bodies. This shows how the desecration of the graves was justified by the need to harvest tapioca as a commercial crop. 
 
@@ -120,7 +114,8 @@ After the Occupation, tapioca was even more unpopular to the layperson. As histo
        url="Tapioca/media/Malayan_Tribune.png"
        title="Spectre of Famine" 
        attribution="Malayan Tribune"
-       license="CC BY-NC, digitised by NUS Libraries">
+       license="CC BY-NC, digitised by NUS Libraries"
+       fit="contain">
 
 Although tapioca is no longer widely cultivated in Singapore, the crop has left its mark on Singapore’s landscape. Today’s Ubi Estate and Jalan Ubi, in Geylang, are reminders of Kampong Ubi—an area that gained its name because its residents grew tapioca during the Japanese Occupation. [^23] Tapioca persists in Singapore’s culinary landscape, as well.
 <param ve-image 
@@ -154,10 +149,10 @@ Through a species lens, we can trace the tapioca through different periods in Si
 
 
 ## References
-[^1]: Antonio C. Allem, “The Origin of Manihot esculenta Crantz (Euphorbiaceae)” Genetic Resources and Crop Evolution 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf 
-[^2]: “Tapioca Word History,” Merriam-Webster, accessed November 27, 2022. https://www.merriam-webster.com/dictionary/tapioca#word-history 
-[^3]: “Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210
-[^4}: Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” Journal of Biogeography 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
+[^1]:Antonio C. Allem, “The Origin of Manihot esculenta Crantz (Euphorbiaceae)” Genetic Resources and Crop Evolution 41 (1994): 141, https://www.alice.cnptia.embrapa.br/bitstream/doc/171079/1/ID10022.pdf 
+[^2]:“Tapioca Word History,” Merriam-Webster, accessed November 27, 2022. https://www.merriam-webster.com/dictionary/tapioca#word-history 
+[^3]:“Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210
+[^4]:Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” Journal of Biogeography 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
 [^5]: 
 
 
