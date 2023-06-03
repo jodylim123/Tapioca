@@ -168,21 +168,21 @@ Also made using tapioca flour, Kueh Bangkit, not to be confused with Kueh Bingka
        license="CC BY-SA 3.0"
        fit="contain">
 
-In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”, Margaret Chan, New Nation food columnist, provides a recipe for Kueh Bangkit. [^25]Beyond the recipe, she also gives handy tips for making the perfect kueh. Chan advises that while pre-frying the flour, “the flour will exude a fragrance and will become lighter to stir as the moisture is evaporated.” [^26] She also gives suggestions on where to get the ingredients: “Kueh Bangkit can be flavoured with vanilla essence or the new Star Brand pandan essence or pandan powder from Spices of the Orient.” [^27] In another 1980 New Nation article, Chan compiles Kueh Bangkit recipes from other women as well. For example, Mrs. Marican describes her Kueh Bangkit recipe slightly differently from Chan. [^28] She adds a personal, experienced touch to her description of how “she simply pats the dough flat with her hands and does not bother with a rolling pin.” [^29] This compilation is unique in giving many variations of the Kueh Bangkit recipe, reflecting the experiences and tastes of the women behind them. 
+In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”, Margaret Chan, New Nation food columnist, provides a recipe for Kueh Bangkit. [^24]Beyond the recipe, she also gives handy tips for making the perfect kueh. Chan advises that while pre-frying the flour, “the flour will exude a fragrance and will become lighter to stir as the moisture is evaporated.” [^25] She also gives suggestions on where to get the ingredients: “Kueh Bangkit can be flavoured with vanilla essence or the new Star Brand pandan essence or pandan powder from Spices of the Orient.” [^26] In another 1980 New Nation article, Chan compiles Kueh Bangkit recipes from other women as well. For example, Mrs. Marican describes her Kueh Bangkit recipe slightly differently from Chan. [^27] She adds a personal, experienced touch to her description of how “she simply pats the dough flat with her hands and does not bother with a rolling pin.” [^28] This compilation is unique in giving many variations of the Kueh Bangkit recipe, reflecting the experiences and tastes of the women behind them. 
 <param ve-image
        url="Tapioca/media/kueh_bangkit_recipe.png"
        title="Margaret Chan's Kueh Bangkit Recipe" 
        attribution="Jody Lim"
        fit="contain">                           
 
-Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html) is a Peranakan woman who has had a diverse career as a television and film actress and food critic; she is currently an associate professor at Singapore Management University’s School of Social Sciences. [^30] She was a pioneering food critic in Singapore, and many restaurant advertisements from the 1990s specifically highlighted her words of praise. Commended as a “Top Food Columnist,” [^31] a Harbour City Restaurant advertisement describes her as follows: “She fills her column unabashedly and candidly. A true professional.” [^32] She reviewed a multitude of cuisines beyond just Peranakan food, including Cantonese or Indonesian cuisine. Through her recipes and reviews, she helped to define food culture in Singapore.
+Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html) is a Peranakan woman who has had a diverse career as a television and film actress and food critic; she is currently an associate professor at Singapore Management University’s School of Social Sciences. [^29] She was a pioneering food critic in Singapore, and many restaurant advertisements from the 1990s specifically highlighted her words of praise. Commended as a “Top Food Columnist,” [^30] a Harbour City Restaurant advertisement describes her as follows: “She fills her column unabashedly and candidly. A true professional.” [^31] She reviewed a multitude of cuisines beyond just Peranakan food, including Cantonese or Indonesian cuisine. Through her recipes and reviews, she helped to define food culture in Singapore.
 <param ve-image 
        url="Tapioca/media/placeholder_chan_adverts.png"
        title="Placeholder Adverts" 
        attribution= "SPH"
        fit="contain"> 
 
-Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local Peranakan culture as she was the first Singaporean to play the titular role in Stella Kon’s play Emily of Emerald Hill. This one-woman play details the life of a Nyonya throughout her journey as a daughter, mother, and eventually matriarch of her family. In 1986, Margaret Chan even performed the play at the Commonwealth Arts Festival in Edinburgh, bringing this uniquely Singaporean play to the world stage. [^33] Through her culinary and stage career, Margaret Chan has become a key representative of the Peranakan culture in contemporary Singapore, especially amidst the broader Peranakan cultural revival of the 1980s. 
+Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local Peranakan culture as she was the first Singaporean to play the titular role in Stella Kon’s play Emily of Emerald Hill. This one-woman play details the life of a Nyonya throughout her journey as a daughter, mother, and eventually matriarch of her family. In 1986, Margaret Chan even performed the play at the Commonwealth Arts Festival in Edinburgh, bringing this uniquely Singaporean play to the world stage. [^32] Through her culinary and stage career, Margaret Chan has become a key representative of the Peranakan culture in contemporary Singapore, especially amidst the broader Peranakan cultural revival of the 1980s. 
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1321794.jpg"
        title="Emily of Emerald Hill - Margaret Chan fundraising programme" 
@@ -190,7 +190,7 @@ Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local
        fit="contain"> 
 
 
->Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in >making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue >spotlight on the realm of food and women’s history in Singapore.
+>Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue spotlight on the realm of food and women’s history in Singapore.
 
 
 ## Tapioca: Beyond the Bubble
@@ -209,90 +209,31 @@ Through a species lens, we can trace the tapioca through different periods in Si
 [^2]:“Tapioca Word History,” Merriam-Webster, accessed November 27, 2022. https://www.merriam-webster.com/dictionary/tapioca#word-history 
 [^3]:“Manihot esculenta,” NParks, last modified October 17, 2022, https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2210
 [^4]:Richard T. Corlett, “The Ecological Transformation of Singapore, 1819-1990.” Journal of Biogeography 19, no. 4 (1992): 413. https://doi.org/10.2307/2845569.
-[^5]: 
-
-
-
-## Juncture Guide Below
-       
-For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
-
-## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
-
-*This makes things italics*. 
-
-This is how you add a footnote. [^1]
-
-[This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
-
-This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
-You can find the wikidata IDs by searching for proper nouns [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
-
-**There's no spell-check feature built in, so keep a careful eye out!**
-
-## Adding Images
-       
-You can use the QID tag within a sentence. For example: The <span eid="Q170662">mangosteen</span> is a non-native fruit found in Singapore. This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image. **While these examples are images, we can also include textual sources (particularly primary sources) in the media viewer where appropriate.**
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       title="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
-       
-<span eid="Q271648">Marianne North</span> painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875. You can also include "attribution" in the image information.
-<param ve-image 
-       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
-       title="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
-       description="Held by Kew Gardens."
-       attribution="Marianne North"
-       license="CC BY-NC">
-       
-These are both examples of images added *from urls*. This is the preferred method. However, there might be some images you have to upload yourself. That's totally fine! Ideally, these files should be *as small as possible* and only .jpg or .png files will work. You should create a folder in your repository called "media" and upload the file there. Then, for the url, just copy and paste the item path: "media/{filename}.jpg". For more information on adding multiple images, comparisons, curtain sliders, and for how to zoom into particular sections of an image, check out the documentation [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag).
-<param ve-image 
-       url="media/victoria-crowned=pigeon.jpg"
-       title="Victoria crowned pigeon"
-       attribution="Katherine Enright">     
-## Map
-
-Mangosteens are found in Singapore. This takes a base map and sets the center to Singapore. The code after creates markers for different species, for instance, or to mark particular places on a map.
-<param ve-map center="1.35, 103.9" zoom="11">
-<param ve-map-marker
-       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
-       coords="1.3621, 103.8198"
-       size="38, 95"
-       iconAnchor="22, 94"
-       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
-       shadowSize="50, 64">
-<param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
-       coords="1.4126, 103.9577"
-       size="129, 170"
-       circle="true">
-    
-    
-You can create custom regions just by drawing shapes (no coding needed) using [geojson.io](https://geojson.io/#map=2/0/20). Then you can download the shape file and add it to your juncture media file as a map layer. Let's imagine this is the distribution range of your species.
-
-<param ve-map center="1.35, 103.9" zoom="2">
-<param ve-map-layer geojson url="/media/demomap.geojson" title="Sample Distribution"> 
-
-## Add a YouTube Video
-You can take the id from the YouTube URL. You can also define the start time with start="0:20" (for instance).
-<param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
-
-## Add a Timeline
-This uses the [Knightlab platform](https://timeline.knightlab.com/). The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
-<param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
-
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       title="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
-<param ve-map center="Q334" zoom="11" prefer-geojson>
-
-# References
-
-[^1]: Citation. Make sure you include the colon or this won't work!
+[^5]:“Tapioca plantation at Trafalgar Estate,” Roots, accessed November 27, 2022, https://www.roots.gov.sg/Collection-Landing/listing/1001186. 
+[^6]:“Workers sieving through tapioca flour and pearls at Trafalgar Estate,” Roots, accessed November 27, 2022, https://www.roots.gov.sg/Collection-Landing/listing/1001684.
+[^7]:“The Blue Book Figures,” *The Straits Times*, February 6, 1875, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18750206-1.2.3?ST=1&AT=search&SortBy=Oldest&K=tapioca&P=8&Display=0&filterS=0&QT=tapioca&oref=article .
+[^8]:Warren Bailey, and Lan Truong, “Opium and Empire: Some Evidence from Colonial-Era Asian Stock and Commodity Markets,” *Journal of Southeast Asian Studies* 32, no. 2 (2001): 180, http://www.jstor.org/stable/20072323.
+[^9]:Bailey, and Truong, “Opium and Empire,” 180.
+[^10]:Bailey, and Truong, “Opium and Empire,” 180.
+[^11]:Bailey, and Truong, “Opium and Empire,” 180.                
+[^12]:Sng Choon Yee, “SNG Choon Yee 孙崇瑜Pioneers of Singapore, Accession Number 000064 Reel/ Disc 41 of 48,” interview by Lim How Seng, National Archives Singapore, May 21, 1981, audio, 00:28:11, https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/dff97246-115d-11e3-83d5-0050568939ad?keywords=tapioca&keywords-type=all
+[^13]:Paul H. Kratoska, “The Post-1945 Food Shortage in British Malaya,” *Journal of Southeast Asian Studies* 19, no. 1 (1988): 28, http://www.jstor.org/stable/20070990.
+[^14]:Sng, interview.                    
+[^15]:Kratoska, “Food Shortage”, 28.
+[^16]:Kratoska, “Food Shortage”, 29.                    
+[^17]:Kratoska, “Food Shortage”, 29.                    
+[^18]:“Dealer in Tapioca Flour Fined $1,500,” *Syonan Shimbun*, August 4, 1942, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420804-1.2.44?ST=1&AT=search&k=%22tapioca%20flour%22&QT=%22tapiocaflour%22&oref=article . 
+[^19]:“Dealer Fined $1,500.”                    
+[^20]: Kratoska, “Food Shortage”, 31.                    
+[^21]:Kratoska, “Food Shortage”, 38.                    
+[^22]:Kratoska, “Food Shortage”, 38-9.                    
+[^23]:Victor R. Savage and Brenda S. A. Yeoh. “J.” *Singapore Street Names: A Study of Toponymics* (Marshall Cavendish Editions, 2013) 77, National Library Board Singapore Overdrive. 
+[^24]:Margaret Chan, “Nyonya cakes for new year,” *New Nation*, February 13, 1980, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800213-1.2.51.10?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article .
+[^25]:Chan, “Nyonya cakes.”                   
+[^26]:Chan, “Nyonya cakes.”                    
+[^27]:“Recipe.” *New Natio*n, January 21, 1980. https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19800124-1.2.49.3?ST=1&AT=search&k=tapioca%20kueh&QT=tapioca,kueh&oref=article 
+[^28]:“Recipe.”                     
+[^29]:“Margaret Chan,” Infopedia, accessed November 26, 2022, https://eresources.nlb.gov.sg/infopedia/articles/SIP_2012-08-24_123029.html .                   
+[^30]:“Page 26 Advertisements Column 2,” *Weekend East*, March 25, 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/weekendeast19930325-1.2.48.2?ST=1&AT=search&k=%22food%20columnist%22&QT=%22foodcolumnist%22&oref=article .                    
+[^31]:“Page 15 Advertisements Column 1,” *Timeszone Central*, June 4, 1992, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/timeszone19920604-1.2.24.1?ST=1&AT=search&k=%22margaret%20chan%22&QT=%22margaretchan%22&oref=article . 
+[^32]:Irene Hoe, “Emily to play before audiences here again,” *The Straits Times*, May 13, 1986, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19860513-1.2.22.25 .                    
