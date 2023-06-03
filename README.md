@@ -22,7 +22,7 @@ In Singapore, one can scarcely walk into a shopping mall without seeing a bubble
 Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 after a botanist from Luxembourg, <span eid = "Q112261">Heinrich Johann Nepomuk von Crantz</span>, it is native to South America.[^1] The term tapioca is derived from *tipi'óka*, its Tupi language name which was spoken by natives when the Portuguese arrived in Brazil in the 1500s.[^2]  It translates to sediment or coagulant, referring to the starchy sediments obtained from tapioca. Around the world, the plant is also known as cassava, yuca, or manioc; locally, tapioca is known as *ubi kayu* in Malay and as *mu shu* (木薯) in Chinese.[^3]
 <param ve-map
        center="Q155"
-       zoom="2.5" 
+       zoom="4" 
        stroke-width="0" 
        show-labels>
 <param ve-map-layer
@@ -121,8 +121,8 @@ After the Occupation, tapioca was even more unpopular to the layperson. As histo
        fit="contain">
 
 Although tapioca is no longer widely cultivated in Singapore, the crop has left its mark on Singapore’s landscape. Today’s Ubi Estate and Jalan Ubi, in Geylang, are reminders of Kampong Ubi—an area that gained its name because its residents grew tapioca during the Japanese Occupation. [^23] Tapioca persists in Singapore’s culinary landscape, as well.
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c1/DT27_Ubi_MRT_station_Exit_A_20200911_113806.jpg"
+<param ve-image
+                                          url="https://upload.wikimedia.org/wikipedia/commons/c/c1/DT27_Ubi_MRT_station_Exit_A_20200911_113806.jpg"
        title="DT27 Ubi MRT station Exit A" 
        attribution="ZKang123"
        license="CC BY-SA 4.0">
@@ -130,6 +130,11 @@ Although tapioca is no longer widely cultivated in Singapore, the crop has left 
 ## Nyonya Cuisine: Women who Write 
 
 Tapioca flour is a starch made by washing and pulping tapioca. Locally, it is used in making nyonya kuehs, a type of Peranakan dessert. These include Kueh Bingkar, a tapioca cake, and Kueh Ubi Kayu, tapioca with freshly grated coconut. Peranakan cuisine is mostly a fusion of Chinese and local Malay elements brought about when early Chinese immigrants settled in the area and intermarried with local women. 
+<param ve-image
+            url="https://upload.wikimedia.org/wikipedia/commons/c/c1/DT27_Ubi_MRT_station_Exit_A_20200911_113806.jpg"
+       title="DT27 Ubi MRT station Exit A" 
+       attribution="ZKang123"
+       license="CC BY-SA 4.0">
 
 Also made using tapioca flour, Kueh Bangkit, not to be confused with Kueh Bingkar, is a small white cookie eaten during Lunar New Year celebrations. Many recipes for this biscuit appear in old newspapers, intended for home bakers preparing for Lunar New Year festivities. 
 
