@@ -5,7 +5,7 @@
        layout="vertical">
        
        
-## Tapioca Pearls: A modern day obsession
+## Tapioca Pearls: A Modern Day Obsession
 
 In Singapore, one can scarcely walk into a shopping mall without seeing a bubble tea shop. This story’s focus, the tapioca, is a key ingredient in bubble tea: Its boba pearls are made of tapioca flour. Yet, tapioca consumption in Singapore dates back to the 1800s, long before the introduction of this ubiquitous Taiwanese dessert drink. 
 <param ve-image 
@@ -92,7 +92,7 @@ However, the cultivation of tapioca soon declined as rubber became a more lucrat
 This is a quote from an oral history interview from Mr. Sng Choon Yee, who became a tapioca seller during the Japanese occupation of Singapore from 1942 to 1945. [^12] Mr. Sng’s oral history gives an insight into the lifestyles of locals during this period, in which there were severe food shortages due to wartime trade embargoes and the Japanese policy of autarky or economic self-sufficiency. To remedy this, there was a reconfiguration of office hours: Offices closed at 2pm and their workers tended to gardens from 3pm until nightfall. Many Singaporeans, including Mr. Sng, turned to small-scale subsistence farming to supplement their incomes and diets. [^13]
 
 In the interview, Sng details how he managed to get space to plant tapioca in land-scarce Singapore. As a member of the Hokkien Huay Kuan, a Chinese clan association, he requested to use the association’s cemetery land to plant tapioca. The Huay Kuan allowed him to utilise the cemetery land, located near today’s Whitley and Adam Road,  as long as he did not dig up the graves. [^14] In contrast to colonial plantations, the growing of tapioca during the Japanese Occupation was mainly scaled at the individual level as a means to earn enough money to survive. 
-<param iframe 
+<param ve-iframe 
        src="https://www.google.com/maps/d/embed?mid=1fsx-l0Tsb5VxK5cn4sJW6vZuMfg&hl=en&ehbc=2E312F">
 
 Tapioca cultivation provided a means of subsistence for many during the Japanese Occupation. On Sng’s plot, young boys would help him plant tapioca on an unpaid basis. They brought their own tools like the changkol or the plough. The boys used the Malay name for tapioca—ubi kayu. They were also more irreverent of the cemetery than Sng and his business partner: They would shift bones to obtain more land for planting tapioca. When Sng tried to stop them, the boys justified that the remains were of Australian soldiers killed in war, and not Chinese bodies. This shows how the desecration of the graves was justified by the need to harvest tapioca as a commercial crop. 
