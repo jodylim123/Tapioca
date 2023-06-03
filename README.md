@@ -11,7 +11,8 @@ In Singapore, one can scarcely walk into a shopping mall without seeing a bubble
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/3/33/A_bubble_tea_with_tapioca_pearls%2C_July_2018.jpg"
        title="A Bubble Tea with Tapioca Pearls" 
-       license="CC0 1.0">
+       license="CC0 1.0"
+        fit="contain">
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1080187.jpg"
        title="Tapioca, William Farquhar Collection of Natural History Drawings" 
@@ -122,7 +123,7 @@ After the Occupation, tapioca was even more unpopular to the layperson. As histo
 
 Although tapioca is no longer widely cultivated in Singapore, the crop has left its mark on Singapore’s landscape. Today’s Ubi Estate and Jalan Ubi, in Geylang, are reminders of Kampong Ubi—an area that gained its name because its residents grew tapioca during the Japanese Occupation. [^23] Tapioca persists in Singapore’s culinary landscape, as well.
 <param ve-image
-                                          url="https://upload.wikimedia.org/wikipedia/commons/c/c1/DT27_Ubi_MRT_station_Exit_A_20200911_113806.jpg"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c1/DT27_Ubi_MRT_station_Exit_A_20200911_113806.jpg"
        title="DT27 Ubi MRT station Exit A" 
        attribution="ZKang123"
        license="CC BY-SA 4.0">
@@ -131,14 +132,23 @@ Although tapioca is no longer widely cultivated in Singapore, the crop has left 
 
 Tapioca flour is a starch made by washing and pulping tapioca. Locally, it is used in making nyonya kuehs, a type of Peranakan dessert. These include Kueh Bingkar, a tapioca cake, and Kueh Ubi Kayu, tapioca with freshly grated coconut. Peranakan cuisine is mostly a fusion of Chinese and local Malay elements brought about when early Chinese immigrants settled in the area and intermarried with local women. 
 <param ve-image
-            url="https://upload.wikimedia.org/wikipedia/commons/c/c1/DT27_Ubi_MRT_station_Exit_A_20200911_113806.jpg"
-       title="DT27 Ubi MRT station Exit A" 
-       attribution="ZKang123"
-       license="CC BY-SA 4.0">
+       url="https://live.staticflickr.com/8384/28136641963_625029bcf6_h.jpg"
+       title="Kuih Bingka Ubi" 
+       attribution="Choo Yut Shing"
+       license="CC BY-NC-SA 2.0">
+<param ve-image
+       url="https://upload.wikimedia.org/wikipedia/commons/7/70/Kuih_bangkit.jpg"
+       title="Kuih Ubi Kayu" 
+       attribution="Choo Yut Shing"
+       license="CC BY-NC-SA 2.0">
 
-Also made using tapioca flour, Kueh Bangkit, not to be confused with Kueh Bingkar, is a small white cookie eaten during Lunar New Year celebrations. Many recipes for this biscuit appear in old newspapers, intended for home bakers preparing for Lunar New Year festivities. 
+Also made using tapioca flour, Kueh Bangkit, not to be confused with Kueh Bingkar, is a small white cookie eaten during Lunar New Year celebrations. Many recipes for this biscuit appear in old newspapers, intended for home bakers preparing for Lunar New Year festivities. In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”, Margaret Chan, New Nation food columnist, provides a recipe for Kueh Bangkit. [^25]
+<param ve-image
+       url="https://live.staticflickr.com/3934/15401800378_5f0f83a660_h.jpg"
+       title="Kuih Bangkit" 
+       attribution="ProjectManhattan"
+       license="CC BY-SA 3.0">
 
-In a 13 February 1980 New Nation article titled “Nyonya cakes for new year”, Margaret Chan, New Nation food columnist, provides a recipe for Kueh Bangkit. [^25]
 
 Beyond the recipe, she also gives handy tips for making the perfect kueh. Chan advises that while pre-frying the flour, “the flour will exude a fragrance and will become lighter to stir as the moisture is evaporated.” [^26] She also gives suggestions on where to get the ingredients: “Kueh Bangkit can be flavoured with vanilla essence or the new Star Brand pandan essence or pandan powder from Spices of the Orient.” [^27] In another 1980 New Nation article, Chan compiles Kueh Bangkit recipes from other women as well. For example, Mrs. Marican describes her Kueh Bangkit recipe slightly differently from Chan. [^28] She adds a personal, experienced touch to her description of how “she simply pats the dough flat with her hands and does not bother with a rolling pin.” [^29] This compilation is unique in giving many variations of the Kueh Bangkit recipe, reflecting the experiences and tastes of the women behind them. 
 
