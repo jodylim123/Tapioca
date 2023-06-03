@@ -1,7 +1,7 @@
 <param ve-config 
        title="Tapioca: Despised or Delicacy?"
        author="Jody Lim"
-       banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/8/89/Manihot_esculenta_cassava_flower_vijayanrajapuram.jpg"
        layout="vertical">
        
        
