@@ -26,8 +26,7 @@ Tapioca is scientifically known as *Manihot esculenta Crantz*. Named in 1766 aft
        zoom="4" 
        stroke-width="0" 
        show-labels>
-<param ve-map-layer
-       center= "Q871091">
+<span data-click-map-flyto="Q871091">British Malaya</span>
 
 ## Plantation Crop: Introduction into Malaya
 
