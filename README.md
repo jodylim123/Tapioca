@@ -175,14 +175,14 @@ Born in 1949, [Dr. Margaret Chan](https://eresources.nlb.gov.sg/infopedia/articl
        url="Tapioca/media/placeholder_chan_adverts.png"
        title="Placeholder Adverts" 
        attribution= "SPH"
-       fit="contain"> #haven't decided permission#
+       fit="contain"> 
 
 Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local Peranakan culture as she was the first Singaporean to play the titular role in Stella Kon’s play Emily of Emerald Hill. This one-woman play details the life of a Nyonya throughout her journey as a daughter, mother, and eventually matriarch of her family. In 1986, Margaret Chan even performed the play at the Commonwealth Arts Festival in Edinburgh, bringing this uniquely Singaporean play to the world stage. [^33] Through her culinary and stage career, Margaret Chan has become a key representative of the Peranakan culture in contemporary Singapore, especially amidst the broader Peranakan cultural revival of the 1980s. 
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1321794.jpg"
        title="Emily of Emerald Hill - Margaret Chan fundraising programme" 
        attribution= "Collection of the Peranakan Museum, National Heritage Board, Gift of Stella Kon"
-       fit="contain"> #haven't decided permission#
+       fit="contain"> 
 
 
 >Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in >making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue >spotlight on the realm of food and women’s history in Singapore.
