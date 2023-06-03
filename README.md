@@ -98,6 +98,10 @@ In the interview, Sng details how he managed to get space to plant tapioca in la
        src="https://www.google.com/maps/d/embed?mid=1fsx-l0Tsb5VxK5cn4sJW6vZuMfg&hl=en&ehbc=2E312F">
 
 Tapioca cultivation provided a means of subsistence for many during the Japanese Occupation. On Sng’s plot, young boys would help him plant tapioca on an unpaid basis. They brought their own tools like the changkol or the plough. The boys used the Malay name for tapioca—ubi kayu. They were also more irreverent of the cemetery than Sng and his business partner: They would shift bones to obtain more land for planting tapioca. When Sng tried to stop them, the boys justified that the remains were of Australian soldiers killed in war, and not Chinese bodies. This shows how the desecration of the graves was justified by the need to harvest tapioca as a commercial crop. 
+<param ve-video 
+       id="jDsNOCzJs3o" 
+       title="【4K】Bukit Brown Cemetery | Kopi Sua | Biggest Chinese Graveyard Outside China | Virtual Tour | Gopro"
+       fit="contain">                                                                                                   
 
 Furthermore, the variety of food had reduced as Japanese authorities requisitioned other staples such as rice. Yet, tapioca continued to be available as it was perishable and Japanese authorities mandated that it was consumed in the location they were produced. [^15] Interestingly, a Malayan recipe book featuring local food substitutes in local recipes was distributed by the Japanese administration, aiming to alleviate the food shortages caused by the lack of other staples. In 1943, tapioca bread and noodles were distributed as rations. [^16] Thus, with the Japanese administration’s promotion, tapioca became a staple food. The area for cultivation of root crops, including tapioca, grew from 35,000 acres in 1939 to 188,000 acres in 1945. [^17] Thus, tapioca became increasingly cultivated in Singapore once again.
 <param ve-video 
@@ -181,14 +185,17 @@ Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local
        fit="contain"> #haven't decided permission#
 
 
-Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue spotlight on the realm of food and women’s history in Singapore.
+>Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in >making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue >spotlight on the realm of food and women’s history in Singapore.
 
 
 ## Tapioca: Beyond the Bubble
 
 Through a species lens, we can trace the tapioca through different periods in Singapore’s history up to today. The colonial desire for economic exploitation led to its arrival to Singapore and then its eventual displacement in favour of the more lucrative rubber. During the Japanese Occupation, local people grew tapioca for survival, whether for monetary gain or simply for food. Tapioca’s role in Peranakan food not only elevates a tasty kueh, but also brings to the foreground the women who make and write about food. The next time you enjoy your favourite cup of bubble tea, spare a moment to appreciate tapioca’s diverse role in Singaporean history.
-
-
+<param ve-image 
+       url="https://commons.wikimedia.org/wiki/File:Manihot_esculenta_-_cross_section_2.jpg"
+       title="Manihot esculenta" 
+       license="CC BY 3.0"
+        fit="contain">
 
 
 
