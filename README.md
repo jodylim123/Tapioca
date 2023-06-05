@@ -190,7 +190,7 @@ Beyond Peranakan cuisine, Margaret Chan is also an iconic spokesperson for local
        fit="contain"> 
 
 
->Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue spotlight on the realm of food and women’s history in Singapore.
+Looking into the genre of food writing, women’s contributions to Peranakan cuisine can be more recognised and praised. Women like Dr. Margaret Chan have been instrumental in making food blogging and reviews a staple of newspapers and social media today. The story of Kueh Bangkit, a small biscuit made of a tapioca flour, can cast an overdue spotlight on the realm of food and women’s history in Singapore.
 
 
 ## Tapioca: Beyond the Bubble
@@ -201,7 +201,6 @@ Through a species lens, we can trace the tapioca through different periods in Si
        title="Manihot esculenta" 
        license="CC BY 3.0"
        fit="contain">
-
 
 
 ## References
